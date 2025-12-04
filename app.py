@@ -32,10 +32,10 @@ st.subheader("팀원 소개")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.markdown("### 팀원 1")
+    st.markdown("마정흠 팀원 1")
     st.write("**역할**: 메인 페이지 개발")
-    st.write("**관심사**: UI/UX 디자인")
-    st.write("**좋아하는 것**: 피자")
+    st.write("**관심사**: 딥러닝 컴퓨터비전")
+    st.write("**좋아하는 것**: 알리오올리오")
     
 with col2:
     st.markdown("### 팀원 2")
